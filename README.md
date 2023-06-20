@@ -53,7 +53,7 @@ o diminuire la dimensione della bocca, è possibile mutarne la larghezza e l’a
 ## Target e contesto d’uso
 Il target sono le persone interessate a questo tipo di progetto e di tecnologia. Apportando dei migliora menti, potrebbe essere utilizzata nel contesto di at- elier, dove studenti e insegnanti che non conoscono MediaPipe, possono sperimentare e approfondire il tema attraverso un esempio semplice e pratico. Un altro campo di utilizzo potrebbe essere un open day, per mostrare alcuni dei software utilizzati all’interno della scuola e le possibilità che essa offre durante le lezioni di questo tipo.
 
-[<img src="./Immagini-video/immagine_01.jpg" width="300" alt="Immagine_01">]()
-[<img src="./Immagini-video/immagine_02.jpg" width="300" alt="Immagine_02">]()
-[<img src="./Immagini-video/immagine_03.jpg" width="300" alt="Immagine_03">]()
+[<img src="./Immagini-video/immagine_01.jpg" width="300" alt="immagine_01">]()
+[<img src="./Immagini-video/immagine_02.jpg" width="300" alt="immagine_02">]()
+[<img src="./Immagini-video/immagine_03.jpg" width="300" alt="immagine_03">]()
 [<img src="./Immagini-video/screencast.mov" width="300" alt="screencast">]()
