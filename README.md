@@ -6,7 +6,7 @@ Elaborato 1: Marionetta digitale
 
 # Gatto_matto_marionetta
 Autrice: Giulia Imperatori  
-[MediaPipe demo-ES6] https://github.com/giuliaimperatori/Gatto_matto_marionetta.git
+[MediaPipe demo-ES6] https://giuliaimperatori.github.io/Gatto_matto_marionetta/
 
 
 ## Introduzione e tema
