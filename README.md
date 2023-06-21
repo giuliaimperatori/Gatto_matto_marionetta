@@ -56,5 +56,8 @@ Il target sono le persone interessate a questo tipo di progetto e di tecnologia.
 [<img src="immagini-video/immagine_01.png" width="300" alt="immagine_01">]()
 [<img src="immagini-video/immagine_02.png" width="300" alt="immagine_02">]()
 [<img src="immagini-video/immagine_03.png" width="300" alt="immagine_03">]()
-[<img src="immagini-video/screencast.mov" width="300" alt="screencast">]()
+
+Uploading screencast.mov…
+
+
 
