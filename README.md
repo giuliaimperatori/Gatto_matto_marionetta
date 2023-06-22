@@ -57,7 +57,6 @@ Il target sono le persone interessate a questo tipo di progetto e di tecnologia.
 [<img src="immagini-video/immagine_02.png" width="300" alt="immagine_02">]()
 [<img src="immagini-video/immagine_03.png" width="300" alt="immagine_03">]()
 
-Uploading screencast.mov…
 
-
+https://github.com/giuliaimperatori/Gatto_matto_marionetta/assets/126774277/c17e39b7-3dbb-4b53-a6f6-9008e8b2995f
 
