@@ -52,9 +52,9 @@ o diminuire la dimensione della bocca, è possibile mutarne la larghezza e l’a
 ## Target e contesto d’uso
 Il target sono le persone interessate a questo tipo di progetto e di tecnologia. Apportando dei migliora menti, potrebbe essere utilizzata nel contesto di at- elier, dove studenti e insegnanti che non conoscono MediaPipe, possono sperimentare e approfondire il tema attraverso un esempio semplice e pratico. Un altro campo di utilizzo potrebbe essere un open day, per mostrare alcuni dei software utilizzati all’interno della scuola e le possibilità che essa offre durante le lezioni di questo tipo.
 
-[<img src="immagini-video/immagine_01.png" width="300" alt="immagine_01">]()
-[<img src="immagini-video/immagine_02.png" width="300" alt="immagine_02">]()
-[<img src="immagini-video/immagine_03.png" width="300" alt="immagine_03">]()
+[<img src="documentazione/immagine_01.png" width="300" alt="immagine_01">]()
+[<img src="documentazione/immagine_02.png" width="300" alt="immagine_02">]()
+[<img src="documentazione/immagine_03.png" width="300" alt="immagine_03">]()
 
 
 https://github.com/giuliaimperatori/Gatto_matto_marionetta/assets/126774277/c17e39b7-3dbb-4b53-a6f6-9008e8b2995f
