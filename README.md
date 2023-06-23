@@ -28,7 +28,6 @@ Ho scelto di disegnare su carta le parti del mio personaggio per poi farne la sc
 L’interazione con la marionetta è possibile grazie al metodo di MediaPipe, che riconosce i punti presenti sulla mano e che ci permette di muoverla a piacimento. Ho deciso di tenere la visione della mano e di non nasconderla con uno sfondo, in modo da mantenere il concetto di marionetta tradizionale. 
 
 
-
 ## Tecnologia usata
 Muovendo pollice e mignolo è possibile aumentare
 o diminuire la dimensione della bocca, è possibile mutarne la larghezza e l’altezza in base alla distanza e alla posizione di queste due dita. Il naso è posizionato sul dito medio, mentre sui polpastrelli dell’indice e dell’anulare sono situati i due occhi, riducendo la distanza fra queste due dita, a un numero pari o minore di cinquanta, l’occhio destro si chiude, per la funzione “if”.
