@@ -16,11 +16,11 @@ const larghezzaOcchiodxchiuso = 100
 
 async function preload(){
 
-	bocca = loadImage("./bocca.png")
-	naso = loadImage("./naso.png")
-	occhiosx = loadImage("./occhio_sx.png")
-	occhiodx = loadImage("./occhio_dx.png")
-	occhiodxchiuso = loadImage("./occhio_dx_chiuso.png")
+	bocca = loadImage("./assets/img/bocca.png")
+	naso = loadImage("./assets/img/naso.png")
+	occhiosx = loadImage("./assets/img/occhio_sx.png")
+	occhiodx = loadImage("./assets/img/occhio_dx.png")
+	occhiodxchiuso = loadImage("./assets/img/occhio_dx_chiuso.png")
 	
 }
 
